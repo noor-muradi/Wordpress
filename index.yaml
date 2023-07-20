@@ -3,9 +3,9 @@ entries:
   Wordpress:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-07-20T05:44:46.428544491Z"
+    created: "2023-07-20T06:36:43.236265494Z"
     description: A Helm chart for deploying Wordpress+Mariadb stack on kubernetes.
-    digest: 5789eb8c37ae53b9e61b51d008eca86f59b002412c9c47d869c7c461a90e431b
+    digest: 5265e3107c116d98b18697c77b90111ef31efe99b938e88818031f6da000280a
     icon: https://pngimg.com/uploads/wordpress/wordpress_PNG26.png
     maintainers:
     - email: contact@itsnoor.info
@@ -13,6 +13,6 @@ entries:
     name: Wordpress
     type: application
     urls:
-    - https://noor-muradi.github.io/Wordpress/
-    version: 1.0.0
-generated: "2023-07-20T05:44:46.427418363Z"
+    - Wordpress-1.0.1.tgz
+    version: 1.0.1
+generated: "2023-07-20T06:36:43.235230637Z"
